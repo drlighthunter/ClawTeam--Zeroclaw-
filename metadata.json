@@ -1,0 +1,5 @@
+{
+  "name": "ZeroClaw Team Dashboard",
+  "description": "A multi-agent swarm coordination dashboard for ZeroClaw agents.",
+  "requestFramePermissions": []
+}
